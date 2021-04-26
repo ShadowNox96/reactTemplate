@@ -1,12 +1,12 @@
 {
-  "name": "platzivideo",
+  "name": "reactTemplate",
   "version": "1.0.0",
   "description": "Aplicacion hecha en react ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
-    "start": "webpack serve --mode development --env development"
+    "start": "webpack serve --mode development --env development --port 3000"
   },
   "author": "Emanuel de la Cruz",
   "license": "ISC",
